@@ -1,16 +1,16 @@
 # DHT11 Room Monitor
 
-Мини-проект для измерения температуры и влажности воздуха с помощью Arduino Uno и датчика DHT11.
+A beginner Arduino project that measures room temperature and humidity using an Arduino Uno and a DHT11 sensor.
 
-## Компоненты
+## Components
 
 * Arduino Uno
-* DHT11
-* макетная плата
-* соединительные провода
+* DHT11 sensor
+* Breadboard
+* Jumper wires
 
-## Результат
+## Result
 
 ![Arduino setup](images/setup.jpg)
 
-![Serial Monitor](images/serial-monitor.jpg)
+![Serial Monitor readings](images/serial-monitor.jpg)
